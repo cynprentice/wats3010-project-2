@@ -6,6 +6,7 @@
 }
 
 /*   2. Add variable for color and font. */
+
 :root {
     --main-bg-color: white;
     --main-text-color: #353535;
